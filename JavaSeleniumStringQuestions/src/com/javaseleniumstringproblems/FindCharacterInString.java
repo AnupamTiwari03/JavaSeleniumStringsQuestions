@@ -14,7 +14,7 @@ public class FindCharacterInString {
 			}
 
 		}
-		System.out.println("No of Character in a given string is : "+ count);
+		System.out.println("No of Character in a given string is  : "+ count);
 
 	}
 }
