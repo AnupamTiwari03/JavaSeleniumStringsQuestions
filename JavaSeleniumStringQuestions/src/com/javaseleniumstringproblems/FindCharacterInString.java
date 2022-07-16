@@ -5,7 +5,7 @@ public class FindCharacterInString {
 	public static void main(String[] args) {
 		// find how many character are present inside string
 
-		String data = "Automation Tester";
+		String data = "Automation Tester Job";
 		int count = 0;
 
 		for (int i = 0; i < data.length(); i++) {
