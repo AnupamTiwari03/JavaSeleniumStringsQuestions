@@ -7,6 +7,9 @@ public class Test1
         System.out.println("Test");
         System.out.println("Test111");
 
+    // code added by master
+        System.out.println("Code added by master");
+
         //code added by dev 1 which will be merged to master branch
         System.out.println("Code by Dev 1");
 
